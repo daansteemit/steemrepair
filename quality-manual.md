@@ -41,6 +41,7 @@ Attribution is not necessary for the Youtube/Vimeo videos or thumbnails, but eve
 You will download a free image from Pixabay, upload it to the Steemit and give attribution to look like this: 
 
 ![Image example](https://i.imgur.com/gOrVWRe.png)
+
 [Image attribution source](https://pixabay.com/en/example-for-example-z-b-2427501/)
 
 Code for source is...
@@ -55,6 +56,8 @@ You can also use this [Free Image Search Engine](https://aschatria.github.io/ste
 You can also swap codes like this and create a cover from a Youtube video.
 https://www.youtube.com/watch?v=CODE
 https://img.youtube.com/vi/CODE/sddefault.jpg
+
+-----
 
 
 If you need an additional help in formatting or shaping your text, you can use [Magic Clover](https://aschatria.github.io/steem/magic-clover.html) to do so. 
