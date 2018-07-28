@@ -6,6 +6,7 @@ Usage of the banners ( or tag) is not obligatory.
 
 
 ![](https://i.imgur.com/8j8zmhA.png)
+IMAGE ONLY: 
 
 ![](https://i.imgur.com/3PctuXk.png?1)
 
