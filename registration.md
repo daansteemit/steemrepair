@@ -12,7 +12,7 @@ Minimum SP necessary to register is 100 SP, either by joining in with our trail 
 
 1. Apply with the form below 
 2. Wait
-3. After approval follow steemrepair trail on steemauto, or delegate.
+3. After approval, follow steemrepair trail on steemauto or delegate.
 
 
 FORM: 
@@ -27,7 +27,7 @@ WE RESERVE THE RIGHT TO REFUSE ANY APPLICATION IN CASE OF THE PROVEN ABUSE OR LO
 ### HOW TO JOIN VOTING TRAIL ON STEEMAUTO
 
 
-1. Signup with Steemconnect in steemauto.com
+1. Sign up with Steemconnect in steemauto.com
 2. Connect your Steemit account in Dashboard
 3. Set your voting limit ( 70% is ok) in Dashboard
 4. Search steemrepair and follow it in tab Curation Trail
@@ -36,8 +36,8 @@ WE RESERVE THE RIGHT TO REFUSE ANY APPLICATION IN CASE OF THE PROVEN ABUSE OR LO
 
 *If your account has more SP you can modify settings for voting limit and voting weight with less, as long your upvote is useful.* 
 
-With these settings your account will never fail to have a good voting power. 
-Our robot doesn't go under 80%, so yours will never fall under 90%.
+With these settings, your account will never fail to have a good voting power. 
+Our robot doesn't go under 80%, so yours will never fall to 90%.
 
 
 
@@ -60,24 +60,17 @@ SP dropdown: leave as is
 
 Click green button "Delegate via SteemConnect.com"
 
-( to undelegate repeat the steps, but instead 
+( to un-delegate repeat the steps, but instead 
 Amount: 100
 write
 Amount: 0)
 
 -----
 
-Voting is automatic and voting percentage is adjusted depending on the average posts per day. 
+Voting is automatic and the voting percentage is adjusted depending on the average posts per day. 
 
-In case of the need we can switch between automatic and manual voting. 
+In case of the need, we can switch between automatic and manual voting. 
 
 -----
 
 After you do this, report to admin or mods so we can add you to the team in Discord server, and in the Fanbase ( and voting list for manual mode) 
-
-
-
-
-
-
-
