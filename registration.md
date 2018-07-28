@@ -1,4 +1,4 @@
-## HOW TO REGISTER WITH STEEMREPAIR TRAIL
+## HOW TO REGISTER WITH STEEMREPAIR TEAM
 
 People who want to join our internal team have to pass the official registration process.
 
