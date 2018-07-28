@@ -1,5 +1,7 @@
 
-## Steemrepair banners and graphics
+# Steemrepair banners and graphics
+
+## Simple banners
 
 These are all the official banners available for our group.
 Usage of the banners ( or tag) is not obligatory.
@@ -155,14 +157,14 @@ LINKED IMAGE (HTML): ```<a href="https://discord.gg/PR8urpJ"><img src="https://i
 
 -----
 
+![steemrepair](https://i.imgur.com/leAGXdm.png)
 
+IMAGE CODE ONLY (MARKDOWN): ```![](https://i.imgur.com/leAGXdm.png)```
 
-IMAGE CODE ONLY (MARKDOWN): ```![]()```
+LINKED IMAGE (MARKDOWN): ```[![](https://i.imgur.com/leAGXdm.png)](https://discord.gg/PR8urpJ)```
 
-LINKED IMAGE (MARKDOWN): ```[![]()](https://discord.gg/PR8urpJ)```
+IMAGE CODE (HTML): ```<img src="https://i.imgur.com/leAGXdm.png"/>```
 
-IMAGE CODE (HTML): ```<img src=""/>```
-
-LINKED IMAGE (HTML): ```<a href="https://discord.gg/PR8urpJ"><img src=""/></a>```
+LINKED IMAGE (HTML): ```<a href="https://discord.gg/PR8urpJ"><img src="https://i.imgur.com/leAGXdm.png"/></a>```
 
 -----
