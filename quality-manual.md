@@ -54,8 +54,15 @@ You can use ones on Pixabay, Pexels, Unsplash, and similar pages.
 You can also use this [Free Image Search Engine](https://aschatria.github.io/steem/freedownloads.html) to find images by topic. 
 
 You can also swap codes like this and create a cover from a Youtube video.
-https://www.youtube.com/watch?v=CODE
-https://img.youtube.com/vi/CODE/sddefault.jpg
+
+Take a Youtube video ...
+
+https://www.youtube.com/watch?v=**CODE**
+
+and do this...
+
+https://img.youtube.com/vi/**CODE**/sddefault.jpg
+
 
 -----
 
