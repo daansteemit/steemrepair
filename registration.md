@@ -1,4 +1,4 @@
-## HOW TO REGISTER WITH STEEMREPAIR TEAM
+## Registration for Steemrepair Team
 
 People who want to join our internal team have to pass the official registration process.
 
