@@ -24,7 +24,7 @@ WE RESERVE THE RIGHT TO REFUSE ANY APPLICATION IN CASE OF THE PROVEN ABUSE OR LO
 
 
 
-HOW TO JOIN VOTING TRAIL ON STEEMAUTO
+### HOW TO JOIN VOTING TRAIL ON STEEMAUTO
 
 
 1. Signup with Steemconnect in steemauto.com
@@ -39,7 +39,7 @@ Our robot doesn-t go under 80%, so yours will never fall under 90%.
 
 
 
-HOW TO DELEGATE TO STEEMREPAIR 
+### HOW TO DELEGATE TO STEEMREPAIR 
 
 This is even easier than the trail.
 Minimum delegation is 100, but you can delegate more if you wish to support us. 
