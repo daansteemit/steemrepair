@@ -91,5 +91,78 @@ LINKED IMAGE (HTML): ```<a href="https://discord.gg/PR8urpJ"><img src="https://i
 
 -----
 
+## Summer banners
+
+Who wish to use it, there are some new banners as well.
+
+![steemrepair](https://i.imgur.com/2NxW1Sh.png)
+
+IMAGE CODE ONLY (MARKDOWN): ```![](https://i.imgur.com/2NxW1Sh.png)```
+
+LINKED IMAGE (MARKDOWN): ```[![](https://i.imgur.com/2NxW1Sh.png)](https://discord.gg/PR8urpJ)```
+
+IMAGE CODE (HTML): ```<img src="https://i.imgur.com/2NxW1Sh.png"/>```
+
+LINKED IMAGE (HTML): ```<a href="https://discord.gg/PR8urpJ"><img src="https://i.imgur.com/2NxW1Sh.png"/></a>```
+
+-----
+
+![steemrepair](https://i.imgur.com/BEuvmn6.png)]
+
+IMAGE CODE ONLY (MARKDOWN): ```![](https://i.imgur.com/BEuvmn6.png)```
+
+LINKED IMAGE (MARKDOWN): ```[![](https://i.imgur.com/BEuvmn6.png)](https://discord.gg/PR8urpJ)```
+
+IMAGE CODE (HTML): ```<img src="https://i.imgur.com/BEuvmn6.png"/>```
+
+LINKED IMAGE (HTML): ```<a href="https://discord.gg/PR8urpJ"><img src="https://i.imgur.com/BEuvmn6.png"/></a>```
+
+-----
+
+![steemrepair](https://i.imgur.com/5frNBPa.png)
+
+IMAGE CODE ONLY (MARKDOWN): ```![](https://i.imgur.com/5frNBPa.png)```
+
+LINKED IMAGE (MARKDOWN): ```[![](https://i.imgur.com/5frNBPa.png)](https://discord.gg/PR8urpJ)```
+
+IMAGE CODE (HTML): ```<img src="https://i.imgur.com/5frNBPa.png"/>```
+
+LINKED IMAGE (HTML): ```<a href="https://discord.gg/PR8urpJ"><img src="https://i.imgur.com/5frNBPa.png"/></a>```
+
+-----
+
+![steemrepair](https://i.imgur.com/boXLCzk.png)
+
+IMAGE CODE ONLY (MARKDOWN): ```![](https://i.imgur.com/boXLCzk.png)```
+
+LINKED IMAGE (MARKDOWN): ```[![](https://i.imgur.com/boXLCzk.png)](https://discord.gg/PR8urpJ)```
+
+IMAGE CODE (HTML): ```<img src="https://i.imgur.com/boXLCzk.png"/>```
+
+LINKED IMAGE (HTML): ```<a href="https://discord.gg/PR8urpJ"><img src="https://i.imgur.com/boXLCzk.png"/></a>```
+
+-----
+
+![steemrepair](https://i.imgur.com/zc5slY4.png)
+
+IMAGE CODE ONLY (MARKDOWN): ```![](https://i.imgur.com/zc5slY4.png)```
+
+LINKED IMAGE (MARKDOWN): ```[![](https://i.imgur.com/zc5slY4.png)](https://discord.gg/PR8urpJ)```
+
+IMAGE CODE (HTML): ```<img src="https://i.imgur.com/zc5slY4.png"/>```
+
+LINKED IMAGE (HTML): ```<a href="https://discord.gg/PR8urpJ"><img src="https://i.imgur.com/zc5slY4.png"/></a>```
+
+-----
 
 
+
+IMAGE CODE ONLY (MARKDOWN): ```![]()```
+
+LINKED IMAGE (MARKDOWN): ```[![]()](https://discord.gg/PR8urpJ)```
+
+IMAGE CODE (HTML): ```<img src=""/>```
+
+LINKED IMAGE (HTML): ```<a href="https://discord.gg/PR8urpJ"><img src=""/></a>```
+
+-----
