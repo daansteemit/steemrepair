@@ -168,3 +168,43 @@ IMAGE CODE (HTML): ```<img src="https://i.imgur.com/leAGXdm.png"/>```
 LINKED IMAGE (HTML): ```<a href="https://discord.gg/PR8urpJ"><img src="https://i.imgur.com/leAGXdm.png"/></a>```
 
 -----
+
+## Other graphics
+
+![steemrepair icon 250](https://i.imgur.com/EEMxMfR.png)
+
+IMAGE CODE ONLY (MARKDOWN): ```![](https://i.imgur.com/EEMxMfR.png)```
+
+LINKED IMAGE (MARKDOWN): ```[![](https://i.imgur.com/EEMxMfR.png)](https://discord.gg/PR8urpJ)```
+
+IMAGE CODE (HTML): ```<img src="https://i.imgur.com/EEMxMfR.png"/>```
+
+LINKED IMAGE (HTML): ```<a href="https://discord.gg/PR8urpJ"><img src="https://i.imgur.com/EEMxMfR.png"/></a>```
+
+-----
+
+![](https://i.imgur.com/bQV8l8e.png)
+
+IMAGE CODE ONLY (MARKDOWN): ```![](https://i.imgur.com/bQV8l8e.png)```
+
+LINKED IMAGE (MARKDOWN): ```[![](https://i.imgur.com/bQV8l8e.png)](https://discord.gg/PR8urpJ)```
+
+IMAGE CODE (HTML): ```<img src="https://i.imgur.com/bQV8l8e.png"/>```
+
+LINKED IMAGE (HTML): ```<a href="https://discord.gg/PR8urpJ"><img src="https://i.imgur.com/bQV8l8e.png"/></a>```
+
+-----
+
+![](https://i.imgur.com/VwfUjfY.png)
+
+IMAGE CODE ONLY (MARKDOWN): ```![](https://i.imgur.com/VwfUjfY.png)```
+
+LINKED IMAGE (MARKDOWN): ```[![](https://i.imgur.com/VwfUjfY.png)](https://discord.gg/PR8urpJ)```
+
+IMAGE CODE (HTML): ```<img src="https://i.imgur.com/VwfUjfY.png"/>```
+
+LINKED IMAGE (HTML): ```<a href="https://discord.gg/PR8urpJ"><img src="https://i.imgur.com/VwfUjfY.png"/></a>```
+
+-----
+
+
