@@ -32,10 +32,12 @@ WE RESERVE THE RIGHT TO REFUSE ANY APPLICATION IN CASE OF THE PROVEN ABUSE OR LO
 3. Set your voting limit ( 70% is ok) in Dashboard
 4. Search steemrepair and follow it in tab Curation Trail
 5. Make sure to check Scale in Settings for that trail
-6. Don't vote with low voting weight. ( 50% is ok for minimum SP).
+6. Don't vote with low voting weight. ( 50% is ok for small accounts who have minimum SP).
+
+*If your account has more SP you can modify settings for voting limit and voting weight with less, as long your upvote is useful.* 
 
 With these settings your account will never fail to have a good voting power. 
-Our robot doesn-t go under 80%, so yours will never fall under 90%.
+Our robot doesn't go under 80%, so yours will never fall under 90%.
 
 
 
